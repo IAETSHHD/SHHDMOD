@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\raw\\eat.m4a",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\raw\\eat.m4a"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\raw\\drink.m4a",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\raw\\drink.m4a"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\raw\\games.m4a",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\raw\\games.m4a"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iwantdrink.mp3",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\raw\\iwantdrink.mp3"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iwantgames.mp3",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\raw\\iwantgames.mp3"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\raw\\iwanteat.mp3",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\raw\\iwanteat.mp3"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gooo_field.mp3",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\raw\\gooo_field.mp3"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_field.mp3",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\raw\\game_field.mp3"
+    }
+]

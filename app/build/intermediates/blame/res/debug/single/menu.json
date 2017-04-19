@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_all.xml",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\menu\\menu_all.xml"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_listview.xml",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\menu\\menu_listview.xml"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_custom_adapter.xml",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\menu\\menu_custom_adapter.xml"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\menu\\menu_search.xml"
+    }
+]

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activityhomehandler"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bb_background"
+    tools:context="com.example.mohamed.shhd.homehandlerActivity">
+
+
+    <Button
+        android:id="@+id/Wake_up_alarm"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Wake up alarm"
+        android:textSize="22dp"
+        android:background="@drawable/button_m"
+        android:textColor="#c4ddc5"
+        android:layout_below="@+id/Light_control"
+        android:layout_alignLeft="@+id/Light_control"
+        android:layout_alignStart="@+id/Light_control"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/Take_photos"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Take photos"
+        android:textSize="24dp"
+        android:background="@drawable/button_m"
+        android:textColor="#c4ddc5"
+        android:layout_below="@+id/Wake_up_alarm"
+        android:layout_alignLeft="@+id/Wake_up_alarm"
+        android:layout_alignStart="@+id/Wake_up_alarm"
+        android:layout_marginTop="23dp" />
+
+    <Button
+        android:id="@+id/Battery_level"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Battery level"
+        android:textSize="24dp"
+        android:background="@drawable/button_m"
+        android:textColor="#c4ddc5"
+        android:layout_marginTop="21dp"
+        android:layout_below="@+id/Take_photos"
+        android:layout_alignLeft="@+id/Take_photos"
+        android:layout_alignStart="@+id/Take_photos" />
+
+    <Button
+        android:id="@+id/Light_control"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Light control"
+        android:textSize="22dp"
+        android:background="@drawable/button_m"
+        android:textColor="#c4ddc5"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/Deaf_k"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="deaf talk"
+        android:textSize="24dp"
+        android:background="@drawable/button_m"
+        android:textColor="#c4ddc5"
+        android:layout_below="@+id/Battery_level"
+        android:layout_alignLeft="@+id/Battery_level"
+        android:layout_alignStart="@+id/Battery_level"
+        android:layout_marginTop="12dp" />
+
+
+
+
+</RelativeLayout>

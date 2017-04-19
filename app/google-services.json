@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606840976755",
+    "firebase_url": "https://shhdmod.firebaseio.com",
+    "project_id": "shhdmod",
+    "storage_bucket": "shhdmod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606840976755:android:6c2a8c70b0bc207a",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.shhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606840976755-scbbs9nm30i7onll4cbt6uiqn1gpbu5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OxDAqmo-aePY8RAGGb7VgUgwbXs1X6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606840976755-scbbs9nm30i7onll4cbt6uiqn1gpbu5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

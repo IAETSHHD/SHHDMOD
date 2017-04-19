@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_account_circle_black_24dp.png",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\mipmap-hdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_settings_black_24dp.png",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\mipmap-hdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\SHHDMOD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_redo_black_24dp.png",
+        "source": "E:\\project\\SHHDMOD\\app\\src\\main\\res\\mipmap-hdpi\\ic_redo_black_24dp.png"
+    }
+]

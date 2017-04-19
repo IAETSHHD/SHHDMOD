@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">606840976755-scbbs9nm30i7onll4cbt6uiqn1gpbu5l.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://shhdmod.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">606840976755</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7OxDAqmo-aePY8RAGGb7VgUgwbXs1X6g</string>
+    <string name="google_app_id" translatable="false">1:606840976755:android:6c2a8c70b0bc207a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7OxDAqmo-aePY8RAGGb7VgUgwbXs1X6g</string>
+    <string name="google_storage_bucket" translatable="false">shhdmod.appspot.com</string>
+</resources>

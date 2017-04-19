@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\design\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.0_9638c5de4a19bf10cc57f496b90c2f0b19f23566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_c2703d6a544661b21cfeb98a7a87a2a006d3d6bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_85b635e9f8333a34ec7460acc0b98755a90e63e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.0_c19c3bba5129e40aed5d2c4da48530dd8ba7447b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.0.0_e77f968bbb61ec4ac1f78c3f45940ebfbd017a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_f06c8ccdfbb2691b12fef6252721df59925b2c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_b9287f234339a436366911fbd9c1b0fa05ec856d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_307d294ec465ca0395317b8d9dfc65b57f6fa55f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_6beba63904db9e5afab9950796a13a10b007c6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.0_d8fb18627944ad119a846c88595c33bbed4f0eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.2.0_d541faf96887b2e89ce904ef4e4c365581692919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_9d7730823a6096725de5913f79c32e102ac503ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_2e099f9fe7a96d3e992d2dd45acd08acf60305be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_8d39e69df76f0e702dc9c45f542d3e6e40dfcbe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_77a0fe01f789c3414aa19506a45d7e8398c21a49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bdbll\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_9c99f406ca118b209b442fee8aeaa7343259677f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_9203087e23c720740a0271291e235df9c52ba09c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bdbll\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_24d7e23162314ab9dcee74dfa5b653352490dec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_922032a3a6d981d766e3878ff7c25513f9dc9dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_6b18eda50a3a44010f70b876a82a30be31a08a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.22.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.22.0_36787462f92b488457ea0c06920d4ee48b56b286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_dedbdbc8ab0688b0149a94c292a6b2edd18a6726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2be256238b012d7f1533b8328835be1df5d29dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.0_688476ed5642a15dca049dc56ebcdf315a1d35da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_a3c6bd37fcc6d81ce36c90d59094cbea0bb93f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bdbll\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5\82edcaec6c7b4599eaeaaf11167ceea41db42f33\httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5_0aca796d0109923f8cac521275bd30814011a3a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_c7fba8ad2a94d608b6f831c13a9d607b6a4184a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.2.0_87d659d9711c8ded5abd7930a5cc6f0019032474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_b2f8aea61fc72a40a70f027dddeb9b7a6bee55ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_36fe40c8003283465b4009c1850a8a28d29ec5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_398066471feebc54a89832618f1534c99d85d442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_e3b6e6846f644aec9c1f64806a9df17ce92917b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_52a67be4be97288d160c20bc3f334e2574d86639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1f425d2142de864157d21924e8a72b0846dcc962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.2.0_05dcef94f2e58e0f70710cde5e83d957e6f98a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\SHHDMOD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="E:\project\SHHDMOD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.0_585da85e1f7ece87fefab8fe6fad7438e80930bd.jar" />
+    </item>
+
+</items>
