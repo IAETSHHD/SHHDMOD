@@ -139,5 +139,5 @@ public class user_info_activity extends item implements View.OnClickListener {
                 break;
 
         }
-}
+    }
 }

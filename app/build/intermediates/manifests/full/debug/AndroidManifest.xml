@@ -26,6 +26,10 @@
 
     <uses-permission android:name="com.example.mohamed.shhd.permission.C2D_MESSAGE" />
 
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/aa_app_logo"
@@ -102,6 +106,72 @@
             android:screenOrientation="portrait" />
         <activity android:name="com.example.mohamed.shhd.Deaf_talk_activity" />
         <activity android:name="com.example.mohamed.shhd.wifi_test" />
+        <activity android:name="com.example.mohamed.shhd.ChatActivity" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity"
+            android:label="@string/title_confirm_recover_password_activity"
+            android:theme="@style/FirebaseUI.Dialog" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.EmailHintContainerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
+            android:label="@string/title_recover_password_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RegisterEmailActivity"
+            android:label="@string/title_register_email_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInNoPasswordActivity"
+            android:label="@string/title_sign_in_no_password_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInActivity"
+            android:label="@string/title_sign_in_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt"
+            android:label="@string/title_welcome_back_idp_prompt"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt"
+            android:label="@string/title_welcome_back_password_prompt"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.ChooseAccountActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/facebook_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"
@@ -176,10 +246,6 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:exported="false"
             android:initOrder="100" />
 
-        <activity
-            android:name="com.facebook.FacebookActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:theme="@style/com_facebook_activity_theme" />
         <activity android:name="com.facebook.CustomTabMainActivity" />
         <!--
          The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically

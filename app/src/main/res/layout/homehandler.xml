@@ -74,6 +74,18 @@
         android:layout_alignLeft="@+id/Battery_level"
         android:layout_alignStart="@+id/Battery_level"
         android:layout_marginTop="12dp" />
+    <Button
+        android:id="@+id/Robot_test"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Robot test"
+        android:textSize="24dp"
+        android:background="@drawable/button_m"
+        android:textColor="#c4ddc5"
+        android:layout_below="@+id/Deaf_k"
+        android:layout_alignLeft="@+id/Deaf_k"
+        android:layout_alignStart="@+id/Deaf_k"
+        android:layout_marginTop="12dp" />
 
 
 

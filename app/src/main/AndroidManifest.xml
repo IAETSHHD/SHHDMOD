@@ -89,6 +89,7 @@
             android:screenOrientation="portrait" />
         <activity android:name=".Deaf_talk_activity" />
         <activity android:name=".wifi_test" />
+        <activity android:name=".ChatActivity"></activity>
     </application>
 
 </manifest>

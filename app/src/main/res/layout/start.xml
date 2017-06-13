@@ -19,6 +19,19 @@
     >
 
     <Button
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Mission history"
+        android:textSize="24dp"
+        android:background="@drawable/button_m"
+        android:textColor="#c4ddc5"
+        android:id="@+id/Mission_history"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/Security"
+        android:layout_alignLeft="@+id/Security"
+        android:layout_alignStart="@+id/Security" />
+
+    <Button
         android:id="@+id/Home_Handler"
         android:layout_width="wrap_content"
         android:layout_height="60dp"
@@ -34,31 +47,6 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="60dp"
-        android:text="Mission history"
-        android:textSize="24dp"
-        android:background="@drawable/button_m"
-        android:textColor="#c4ddc5"
-        android:id="@+id/Mission_history"
-        android:layout_marginTop="24dp"
-        android:layout_below="@+id/Security"
-        android:layout_alignLeft="@+id/Security"
-        android:layout_alignStart="@+id/Security" />
-
-    <TextView
-        android:text="Log-Out"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="30dp"
-        android:textStyle="bold"
-        android:textColor="#616861"
-        android:id="@+id/buttonlogoout"
-        android:layout_below="@+id/Mission_history"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="33dp" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="60dp"
         android:text="security"
         android:textSize="24dp"
         android:background="@drawable/button_m"
@@ -68,6 +56,30 @@
         android:layout_alignLeft="@+id/Home_Handler"
         android:layout_alignStart="@+id/Home_Handler"
         android:layout_marginTop="26dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="Chat"
+        android:textSize="24dp"
+        android:background="@drawable/button_m"
+        android:textColor="#c4ddc5"
+        android:id="@+id/Chat"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/Mission_history"
+        android:layout_alignLeft="@+id/Mission_history"
+        android:layout_alignStart="@+id/Mission_history" />
+
+    <TextView
+        android:text="Log-Out"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="#616861"
+        android:id="@+id/buttonlogoout"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 
 
 </RelativeLayout>

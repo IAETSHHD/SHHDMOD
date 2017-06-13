@@ -33,7 +33,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 public class StartActivity extends AppCompatActivity {
-    Button Start_Home_handler, Start_Disabled_people, Start_security, Start_mission_history;
+    Button Start_Home_handler, Start_Disabled_people, Start_security, Start_mission_history, Chat;
     TextView Start_logout;
     private WifiManager wifiManager;
     private boolean wifi_checker;
@@ -56,6 +56,7 @@ public class StartActivity extends AppCompatActivity {
         Start_Home_handler = (Button) findViewById(R.id.Home_Handler);
         Start_security = (Button) findViewById(R.id.Security);
         Start_mission_history = (Button) findViewById(R.id.Mission_history);
+        Chat = (Button) findViewById(R.id.Chat);
         Start_logout = (TextView) findViewById(R.id.buttonlogoout);
         Start_logout.setPaintFlags(Start_logout.getPaintFlags() | Paint.UNDERLINE_TEXT_FLAG);
         Start_logout.setOnClickListener(new View.OnClickListener() {
@@ -137,16 +138,25 @@ public class StartActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+        Chat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), ChatActivity.class);
+                startActivity(i);
+            }
+        });
+
         Start_logout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
 
-                        firbas.signOut();
-                        //closing activity
-                        finish();
-                        //starting login activity
-                        startActivity(new Intent(getApplicationContext(), login_activity.class));
+                firbas.signOut();
+                //closing activity
+                finish();
+                //starting login activity
+                startActivity(new Intent(getApplicationContext(), login_activity.class));
 
 
             }

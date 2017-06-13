@@ -18,7 +18,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 public class homehandlerActivity extends AppCompatActivity {
-    Button Handler_light_control, Handler_alarm, Handler_take_photo, Handler_battery,button_deaf;
+    Button Handler_light_control, Handler_alarm, Handler_take_photo, Handler_battery,button_deaf,button_robot_test;
 
     FirebaseAuth firbas;
     /**
@@ -37,6 +37,7 @@ public class homehandlerActivity extends AppCompatActivity {
         Handler_take_photo = (Button) findViewById(R.id.Take_photos);
         Handler_battery = (Button) findViewById(R.id.Battery_level);
         button_deaf = (Button) findViewById(R.id.Deaf_k);
+        button_robot_test = (Button) findViewById(R.id.Robot_test);
         firbas = FirebaseAuth.getInstance();
         FirebaseUser user = firbas.getCurrentUser();
 
@@ -44,19 +45,13 @@ public class homehandlerActivity extends AppCompatActivity {
         {
             button_deaf.setVisibility(View.VISIBLE);
         }
-        button_deaf.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), lightcontrolActivity.class);
-                startActivity(i);
-            }
-        });
+
 
 
         Handler_light_control.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), wifi_test.class);
+                Intent i = new Intent(getApplicationContext(), lightcontrolActivity.class);
                 startActivity(i);
             }
         });
@@ -79,6 +74,20 @@ public class homehandlerActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(), batterylevelActivity.class);
+                startActivity(i);
+            }
+        });
+        button_deaf.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), Deaf_talk_activity.class);
+                startActivity(i);
+            }
+        });
+        button_robot_test.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), wifi_test.class);
                 startActivity(i);
             }
         });
